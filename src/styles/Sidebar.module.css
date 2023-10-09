@@ -1,0 +1,7 @@
+.menu li {
+    list-style: none;
+    height: 2rem;
+    display: flex;
+    align-items: top;
+}
+
